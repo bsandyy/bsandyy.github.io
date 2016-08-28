@@ -66,12 +66,9 @@ donate:
   alipay: 'static/img/pay/alipay.png'
 
 # comment
-changyan:
-  appid: cysfY7ULn
-  conf: prod_861928934cecb7a18e15bedaed9dae29
 disqus:
-  #name: jalpc
-  #public_key: tj2MPaNlHMONwTH5bGDNSXyaBpW7q282MeUzh5CwcjJerNhK8Kxk3aWo7IckzTX7
+  name: bsandyy
+  public_key: TD7uGS4tQxgsfv3jnSjXx4S5ZLdW7ORQTybs9TW0s0fyNDg4MCZNVazzUgj2jNps
 
 # share
 bshare:
